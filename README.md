@@ -1,4 +1,16 @@
 # Sales-Analysis-Dashboard-Tableau 
+## link of dashboard  : https://public.tableau.com/views/SalesAnalysisFreelance/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
+
+![Sales Dashboard](https://github.com/Fady-Atia/Sales-Analysis-Dashboard-/blob/main/freelance1.png )
+
+![Performance Dashboard](https://github.com/Fady-Atia/Sales-Analysis-Dashboard-/blob/main/freelance%202.png )
+
+![Story1](https://github.com/Fady-Atia/Sales-Analysis-Dashboard-/blob/main/fr3.png)
+
+![Story2](https://github.com/Fady-Atia/Sales-Analysis-Dashboard-/blob/main/fr4.png)
+
+
+
 ## Objective
 
 Build an insightful and interactive dashboard to analyze sales data, track key performance indicators (KPIs), and provide actionable insights for sales improvements.
